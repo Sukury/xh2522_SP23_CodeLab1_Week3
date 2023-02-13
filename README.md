@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# Week3 Game Updated
 
-DO NOT LEAVE IT LIKE THIS!!!
+I have problem to create the "Data" Folder by using the code: Directory.CreateDirectory(Application.dataPath+Directory_Data);
+If I delete the "Data" Folder, it won't recreate the folder when I start the game.
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
